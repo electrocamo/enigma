@@ -56,7 +56,7 @@ class App extends Component {
               imagenes={this.state.imagenes}
             />
             {this.state.termino}
-            <h1>HOLA MUNDO PRUEBA GITHUB DESDE VISUAL STUDIO CODE31</h1>
+            <h1>HOLA MUNDO PRUEBA GITHUB DESDE VISUAL STUDIO CODE310</h1>
           </div>
       );
   }
